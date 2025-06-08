@@ -271,8 +271,8 @@ img {
 }
  
 .card-image {
-    width: 1080 px;
-    height: 1080 px;
+    max-width: 100%;
+    height: auto;
     display: block;
     margin-bottom: 1rem; /* spacing between image and text */
 }
