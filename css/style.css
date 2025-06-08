@@ -272,7 +272,7 @@ img {
  
 .card-image {
     max-width: 100%;
-    height: auto;
+    height: 100%;
     display: block;
     margin-bottom: 1rem; /* spacing between image and text */
 }
