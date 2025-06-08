@@ -273,8 +273,10 @@ img {
 .card-image {
     display: block;
     margin: 0 auto;
-    max-width: 100%;
-    height: auto;
+    width: 100%;       /* makes it fill the card */
+    height: auto;      /* keeps the aspect ratio */
+    object-fit: cover; /* optional: crops to fit nicely if needed */
+    border-radius: 0.5rem; /* optional: adds rounded corners */
 }
 
 
