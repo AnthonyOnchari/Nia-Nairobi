@@ -1,7 +1,7 @@
-Nia Nairobi 
+
 Welcome to the official website of Nia Nairobi, a youth-driven platform empowering Kenyan teens and young adults with opportunities to earn, learn, and grow. Whether you're looking for side hustles, job openings, or creative income ideas — we've got you covered!
 
-🌐 Live Site: Visit Nia Nairobi
+🌐 Live Site: https://nia-nairobi.vercel.app/
 
 🌟 About Us
 Nia Nairobi is dedicated to creating economic pathways for Kenyan youth by connecting them with:
@@ -58,9 +58,9 @@ Email: info.onchari@gmail.com
 
 GitHub: @AnthonyOnchari
 
-Instagram: @nia_nairobi
+FaceBook: @Nia Nairobi
 
-WhatsApp: [+254 701 807001] (replace with your preferred number)
+WhatsApp: [+254 701 807001] 
 
 ©️ License
 This project is for educational, non-commercial use. All rights reserved by Nia Nairobi.
