@@ -411,18 +411,20 @@ img {
 }
 
 .testimonial-image {
-  width: 100%;
-  height: 150px;
+  width: 100px;              /* Set a fixed width */
+  height: 100px;             /* Set a fixed height to match */
   overflow: hidden;
-  border-radius: 10px 10px 0 0;
+  border-radius: 50%;        /* Makes the container perfectly round */
+  margin: 0 auto 1rem auto;  /* Center and add bottom spacing */
 }
 
 .testimonial-avatar {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  border-radius: 50%;
+  border-radius: 50%;        /* Keeps image inside round container */
 }
+
 
 .testimonial-content {
   padding: 1.5rem;
